@@ -31,6 +31,7 @@ public class Main {
 
         }
         System.out.println(sum + " " + sum2 + " " + max + " "+ (bi-1));
+        ///kjyewrkjykjtry
     }
 }
 
